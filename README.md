@@ -1,5 +1,13 @@
 # Machine-Learning101
 
+
+
+|![ Sketchnote by [(@sketchthedocs)](https://sketchthedocs.dev) ](./sketchnotes/00-Title.png)|
+|:---:|
+| Data Science For Beginners - _Sketchnote by [@nitya](https://twitter.com/nitya)_ |
+
+
+
 # 👏 Pre- requisites to Machine Learning
     1. Python Basics
         a. Python basics :- variables,list,sets,tuples,loops,functions, lambda functions,dictionary, input

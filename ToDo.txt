@@ -4,12 +4,10 @@
     ✅Functions                                                                                                                               🔴Not done yet
     ✅Builtin Data Structures                                                                                                                 ✅Completed and uploaded
     ✅ Object Oriented Programming & Modules                                                                                                   - further subdivisions
-    ✅File and Error Handling                                                                                                                 🔥 awesome project(not done yet)
-    ✅Iteration Protocol and Generators                                                                                                       (✅ alloted only on completion)
-    ✅Kaggle Python micro-course
-    - Asynchronous Programming in Python 
+    🔴File and Error Handling                                                                                                                 🔥 awesome project(not done yet)
+    🔴Iteration Protocol and Generators                                                                                                       (✅ alloted only on completion) 
 
-✅Basics of Git/Github
+🔴Basics of Git/Github
 
 🔴Data Acquisition - Web Scrapping 
     🔴 Fetching data

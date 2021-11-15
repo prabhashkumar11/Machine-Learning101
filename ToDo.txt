@@ -1,3 +1,4 @@
+   
 🔴 PYTHON
     ✅Basics                                                                                                                                  Key:-
     ✅Functions                                                                                                                               🔴Not done yet
@@ -7,3 +8,88 @@
     ✅Iteration Protocol and Generators                                                                                                       (✅ alloted only on completion)
     ✅Kaggle Python micro-course
     - Asynchronous Programming in Python 
+
+✅Basics of Git/Github
+
+🔴Data Acquisition - Web Scrapping 
+    🔴 Fetching data
+    🔴 Using Beautoful Soup
+    🔴 Parsing HTML tables
+    🔴Creating CSV's
+    🔴Cleaning data
+    🔴Scraping using Web API'S 
+     Projects:-
+    🔴Github Webscraping using Beautiful Soup
+    🔴LinkedIn webscraping using Beautiful Soup and Selenium
+
+🔴Getting started with Machine Learning
+    🔴Overview of Machine Learning pipelines
+    🔴 Supervised learning
+    🔴unsupervised learning
+    🔴reinforcement learning
+
+🔴Numpy
+🔴Linear Algebra
+🔴Data Visualisation 
+    -Kaggle microcourse 
+🔴Seaborn
+🔴Pandas
+    - Kaggle micro - course
+🔴Project - Movie Recommendation System
+🔴Probability Distribution & Statistics
+🔴K-Nearest Neighbours
+🔴Project :- Handwriting Classification
+🔴Project :- Diabetes Classification
+🔴Project - Face Recognition
+     🔴 Basics
+     🔴 Working with images
+     🔴 Working with video stream
+     🔴 Face Detection using HaarCascade
+     🔴Generating data of faces
+     🔴 Building Face classifier
+🔴Linear Regression
+🔴Linear Regression - II Multiple Features
+🔴Sci-kit Learn Introduction
+🔴Optimisation Algorithms
+🔴Locally Weighted Regression (LOWESS)
+🔴Maximum Likelihood Estimate (MLE) [Proof]
+🔴Project - Air Pollution Regression
+🔴Logistic Regression
+🔴Project - Credit Fraud detection
+🔴Data Prepreprocessing
+🔴Feature Selection
+🔴PCA
+🔴Natural Language Pre-preprocessing
+🔴Naive Bayes Classifier
+🔴Decision Trees & Random Forests
+🔥Project- Titanic Survivor Prediction
+🔴Support Vector Machines
+🔥Project - Image Classification using SVM
+🔴Clustering Fundamentals (Unsupervised)
+🔥Project - Extracting Dominant Colors
+🔴Deep Learning Introduction
+🔴Neural Networks - MLP's
+🔥Project - Image Classsification using Neural Network
+🔥Project - IMDB Sentiment Analysis
+🔴Convolutional Neural Networks
+🔴Training - Data Loaders, Augmentation, Colab
+🔥Project - COVID Detection using CNN
+🔴CNN Case Studies
+🔴Digging Deeper into Convnets
+🔴Transfer Learning
+🔴Markov Chains for Text Generation (NLP)
+🔴Recurrent Neural Networks
+🔴Word Embeddings - Word2Vec
+🔴Project - Emoji Prediction
+🔴Reinforcement Learning
+🔴Generative Adversarial Networks
+🔴Deep Convolutional GAN's (DCGANs)
+🏆 CAPSTONE PROJECT - AI Image Caption Bot 🤖
+🏆 ML + Web Project: Creating ML Based Web Service (Django)
+🔴Integrating ML Models with Web (Flask)
+🔴Tensorflow Introduction
+🔴Introduction to PyTorch
+🔴SQL
+
+Disclaimer:- This syllabus has been taken for Coding blocks Machine Learning Master Course. 
+

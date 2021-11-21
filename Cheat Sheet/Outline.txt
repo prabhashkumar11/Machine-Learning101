@@ -1,0 +1,17 @@
+
+> _**TIP #1**: Create an outline for your notebook & for each section before you start coding_
+
+
+
+Here's an outline of the project:
+
+1. Download the dataset
+2. Explore & analyze the dataset
+3. Prepare the dataset for ML training
+4. Train hardcoded & baseline models
+5. Make predictions & submit to Kaggle
+6. Peform feature engineering
+7. Train & evaluate different models
+8. Tune hyperparameters for the best models
+9. Train on a GPU with the entire dataset
+10. Document & publish the project online
